@@ -1,0 +1,2 @@
+0 Perros
+1 GATOS
